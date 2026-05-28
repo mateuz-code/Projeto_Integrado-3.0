@@ -1,29 +1,49 @@
-# Projeto Integrado 3° Semestre - Centro Universitário Anhnaguera
+# 🔐 Projeto Integrado 3º Semestre
+## Centro Universitário Anhanguera
 
-# Prefácio
+---
 
-A proposta simula o cenário de uma organização de grande porte que precisa proteger seus dados, sistemas e usuários por meio de políticas claras de segurança.
+## 📖 Sobre o Projeto
 
-# Sobre o Projeto
+Este projeto foi desenvolvido como parte da disciplina Projeto Integrado III e tem como objetivo a criação de uma Política de Segurança da Informação (PSI) para uma empresa fictícia do setor bancário digital.
 
-Este projeto foi desenvolvido como parte da disciplina Projeto Integrado III e tem como objetivo a criação de uma Política de Segurança da Informação (PSI) para uma empresa fictícia.
+---
 
-# Tema do Projeto
+## 🎯 Tema do Projeto
 
-Política de Segurança da Informação para Proteção de Dados Financeiros em um Banco Digital
+> Política de Segurança da Informação para Proteção de Dados Financeiros em um Banco Digital
 
-# Objetivos do Projeto
+---
 
-- Analisar os principais domínios da **Segurança da Informação** aplicáveis a uma empresa.
+## 🚀 Objetivos
 
-- Desenvolver uma **Política de Segurança da Informação (PSI)** completa e estruturada.
+- ✔️ Analisar os principais domínios da Segurança da Informação
+- ✔️ Desenvolver uma Política de Segurança da Informação (PSI)
+- ✔️ Definir princípios, regras e responsabilidades
+- ✔️ Implementar diretrizes de segurança
+- ✔️ Aplicar LGPD e PCI DSS
+- ✔️ Elaborar plano de implementação
+- ✔️ Apresentar evidências de pesquisa
 
-- Definir **princípios, regras e responsabilidades** para cada domínio de segurança.
+---
 
-- Incluir diretrizes de **controle de acesso, uso aceitável, gestão de incidentes, segurança de rede, segurança de dados e segurança física**.
+## 🛡️ Tecnologias e Conceitos Utilizados
 
-- Considerar aspectos de **conformidade regulatória**, especialmente relacionados à **LGPD e PCI DSS** e boas práticas de segurança.
+| Área | Aplicação |
+|---|---|
+| Segurança da Informação | Proteção de Dados |
+| LGPD | Conformidade |
+| PCI DSS | Segurança Bancária |
+| Gestão de Incidentes | Resposta a ameaças |
+| Controle de Acesso | Proteção de usuários |
 
-- Elaborar um **plano de implementação da PSI**, incluindo ações de adoção, conscientização e treinamento.
+---
 
-- Apresentar **evidências de pesquisa** utilizadas na elaboração da política.
+## 📚 Estrutura do Projeto
+
+```bash
+📂 Projeto_Integrado 3.0
+ ┣ 📂 docs
+ ┣ 📂 codigos
+ ┣ 📂 evidencias
+ ┗ README.md
